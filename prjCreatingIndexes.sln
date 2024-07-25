@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjCreatingIndexes", "prjCreatingIndexes\prjCreatingIndexes.csproj", "{6B042F42-701B-48BD-8B3B-02DCDA6293B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjCreatingIndexesTests1", "prjCreatingIndexesTests1\prjCreatingIndexesTests1.csproj", "{4DE22CAC-5946-4250-BB81-CB94EC564BDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B042F42-701B-48BD-8B3B-02DCDA6293B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B042F42-701B-48BD-8B3B-02DCDA6293B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B042F42-701B-48BD-8B3B-02DCDA6293B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B042F42-701B-48BD-8B3B-02DCDA6293B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DE22CAC-5946-4250-BB81-CB94EC564BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DE22CAC-5946-4250-BB81-CB94EC564BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DE22CAC-5946-4250-BB81-CB94EC564BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DE22CAC-5946-4250-BB81-CB94EC564BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91DDEC32-F8EE-4A39-A20C-E0077304E136}
+	EndGlobalSection
+EndGlobal
